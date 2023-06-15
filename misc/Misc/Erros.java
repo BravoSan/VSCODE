@@ -1,4 +1,4 @@
-public class DivideZero{
+public class App{
     public static void main(String[] args);{
 
     int numberA = 100;
