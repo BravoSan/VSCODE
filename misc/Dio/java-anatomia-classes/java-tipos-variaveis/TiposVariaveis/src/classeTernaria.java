@@ -5,7 +5,7 @@ public class classeTernaria {
 
         a = 6;
         b = 6;
-        String resultado = "";
+        String resultado = a == b ? "verdadeiro" : "falso";
 
         if (a == b)
             resultado = "verdadeiro";
